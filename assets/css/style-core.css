@@ -12,6 +12,10 @@
 body{
     font-family: 'IRANSansWeb_Medium', serif !important;
 }
+body a {
+    text-decoration: none;
+    color: #000000;
+}
 
 .radius-0 {
     border-radius: 0 !important;
@@ -21,4 +25,7 @@ body{
 }
 .no-border {
     border: 0px;
+}
+.red-shadow {
+    box-shadow: 4px 6px 11px #dc3545;
 }
