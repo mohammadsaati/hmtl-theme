@@ -29,3 +29,6 @@ body a {
 .red-shadow {
     box-shadow: 4px 6px 11px #dc3545;
 }
+.mt-more {
+    margin-top: 10vh;
+}
