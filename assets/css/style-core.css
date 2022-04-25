@@ -29,3 +29,15 @@ body a {
 .red-shadow {
     box-shadow: 4px 6px 11px #dc3545;
 }
+.mt-more {
+    margin-top: 10vh;
+}
+.mt-sm{
+    margin-top: 5vh;
+}
+.radius-top-right-5 {
+    border-top-right-radius: 2px;
+}
+.radius-bottom-left-20 {
+    border-bottom-left-radius: 20px;
+}
