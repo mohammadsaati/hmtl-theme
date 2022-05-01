@@ -41,3 +41,6 @@ body a {
 .radius-bottom-left-20 {
     border-bottom-left-radius: 20px;
 }
+.font-sm {
+    font-size: 12px;
+}
